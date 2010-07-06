@@ -1,0 +1,136 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8DC2EF4F0486A6940098B216 /* HDCrashReporter */;
+		codeSenseManager = 5CF4D8600E68C0A80091A77F /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 241752561;
+			PBXWorkspaceStateSaveDate = 241752561;
+		};
+		perUserProjectItems = {
+			5CF4D97A0E68E6A20091A77F /* PBXTextBookmark */ = 5CF4D97A0E68E6A20091A77F /* PBXTextBookmark */;
+			5CF4D97B0E68E6A20091A77F /* PBXBookmark */ = 5CF4D97B0E68E6A20091A77F /* PBXBookmark */;
+			5CF4D97C0E68E6A20091A77F /* PBXTextBookmark */ = 5CF4D97C0E68E6A20091A77F /* PBXTextBookmark */;
+			5CF4D97D0E68E6A20091A77F /* PBXTextBookmark */ = 5CF4D97D0E68E6A20091A77F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5CF4D85F0E68C0A80091A77F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C1667FE841158C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 96}";
+			sepNavWindowFrame = "{{15, 37}, {1341, 836}}";
+		};
+	};
+	0970B4B20997A83300CAA451 /* crashReporter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1282, 5334}}";
+			sepNavSelRange = "{1345, 26}";
+			sepNavVisRange = "{1100, 1874}";
+			sepNavWindowFrame = "{{89, 34}, {1341, 836}}";
+		};
+	};
+	32DBCF5E0370ADEE00C91783 /* crashReporter_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {827, 214}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 162}";
+		};
+	};
+	5CF4D85F0E68C0A80091A77F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	5CF4D8600E68C0A80091A77F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5CF4D97A0E68E6A20091A77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0970B4B20997A83300CAA451 /* crashReporter.m */;
+		name = "crashReporter.m: 148";
+		rLen = 0;
+		rLoc = 6018;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 6271;
+	};
+	5CF4D97B0E68E6A20091A77F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 089C1667FE841158C02AAC07 /* English */;
+	};
+	5CF4D97C0E68E6A20091A77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0970B4B20997A83300CAA451 /* crashReporter.m */;
+		name = "crashReporter.m: 148";
+		rLen = 0;
+		rLoc = 6018;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 6271;
+	};
+	5CF4D97D0E68E6A20091A77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C1667FE841158C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 96;
+		vrLoc = 0;
+	};
+	8DC2EF4F0486A6940098B216 /* HDCrashReporter */ = {
+		activeExec = 0;
+	};
+}
